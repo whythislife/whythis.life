@@ -4,7 +4,7 @@ published: true
 ---
 
 |Priority |Name | Location | Date | Price|
-|--------|---- | -------- | ----|
+|--------|---- | -------- |----|---|
 || Movement | USA | May|
 || Hideout | Croatia|  June|
 || Solstice | CA| June|
