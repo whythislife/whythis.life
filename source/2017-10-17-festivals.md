@@ -12,7 +12,8 @@ published: true
 || Time Warp | Germany | April
 || Dekmantel | Holland| August
 || Shambhala | Canada | August | $420
-|| Eclipse | Canada | August 
+|| DGTL | Spain | August
+|| Eclipse | Canada | August
 || Exit | Serbia | July
 || Harvest | CA| September
 | | Outlook | Croatia | September
