@@ -5,10 +5,42 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2017-10-02T00:00:00Z</updated>
+  <updated>2017-10-18T00:00:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Feminism</title>
+    <link rel="alternate" href="/2017/10/18/feminism/"/>
+    <id>/2017/10/18/feminism/</id>
+    <published>2017-10-18T00:00:00Z</published>
+    <updated>2017-10-18T00:00:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;I&amp;#8217;m going to work backwards from the thought about understanding feminism intuitively. (It was a long walk back from Parkdale). Nothing in particular happened, but I&amp;#8217;ve been reading a lot of posts surrounding the #metoo tag. I understand it intellectually with respect to things like the wage gap, performative expectations in family and in public, and increased expectations in general. In addition to that it&amp;#8217;s also necessary to be on guard a lot of the time, and not just physically either.&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;I&amp;#8217;m going to work backwards from the thought about understanding feminism intuitively. (It was a long walk back from Parkdale). Nothing in particular happened, but I&amp;#8217;ve been reading a lot of posts surrounding the #metoo tag. I understand it intellectually with respect to things like the wage gap, performative expectations in family and in public, and increased expectations in general. In addition to that it&amp;#8217;s also necessary to be on guard a lot of the time, and not just physically either.&lt;/p&gt;
+
+&lt;p&gt;My first thought was regarding equality and gender discrimination. It&amp;#8217;s obvious writing it out, but I know for a fact that I&amp;#8217;ve formed initial opinions and notions about people based on their gender. It&amp;#8217;s often gone unchecked and unacknowledged, because I kept telling myself well of course I knew better. Not making assumptions requires vigilance. Equality in my mind means treating people like I&amp;#8217;d want to be treated and for the most part have stuck to that, and yet haven&amp;#8217;t really done anything to actively make things MORE equal.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m 100% certain I&amp;#8217;ve never sexually assaulted somebody. Once again though theres more nuance, and doesn&amp;#8217;t take into consideration things like leering, malegazing, unsolicited conversation, touching and simple proximity. Some/all of these I&amp;#8217;ve definitely done. There are other things that I wasn&amp;#8217;t really aware of, like why asking a woman out on a date while she&amp;#8217;s at work is a bad idea (can&amp;#8217;t just leave), or how jokes can normalize abuse. It sucks that women have to basically be on guard a lot of the time, so it follows logically that men have to be on guard too, and call out sexist language and abuse as it happens.&lt;/p&gt;
+
+&lt;p&gt;Ultimately I realized I&amp;#8217;ve been looking at this topic intellectually instead of more actively being mindful of my language, actions, intentions and assumptions. I&amp;#8217;m not sure what other actionable items look like yet, but I&amp;#8217;m giving it a lot of long, hard thought.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Festivals for 2018</title>
+    <link rel="alternate" href="/2017/10/17/festivals/"/>
+    <id>/2017/10/17/festivals/</id>
+    <published>2017-10-17T00:00:00Z</published>
+    <updated>2017-10-17T00:00:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;br /&gt;
+&lt;p&gt;|| Movement | USA | May || Hideout | Croatia| June || Solstice | CA| June || Sonar | Spain | June || Time Warp | Germany | April || Dekmantel | Holland| August || Shambhala | Canada | August | $420&lt;/p&gt;</summary>
+    <content type="html">&lt;br /&gt;
+&lt;p&gt;|| Movement | USA | May || Hideout | Croatia| June || Solstice | CA| June || Sonar | Spain | June || Time Warp | Germany | April || Dekmantel | Holland| August || Shambhala | Canada | August | $420 || DGTL | Spain | August || Eclipse | Canada | August || Exit | Serbia | July || Harvest | CA| September | | Outlook | Croatia | September&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Why THIS life?</title>
     <link rel="alternate" href="/2017/10/02/why/"/>
@@ -18,19 +50,7 @@
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html">&lt;p&gt;I&amp;#8217;ve created a blog to publicize my thoughts, and act as a braindump. It will also function as a tool to practice my German.&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;I&amp;#8217;ve created a blog to publicize my thoughts, and act as a braindump. It will also function as a tool to practice my German.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Love</title>
-    <link rel="alternate" href="/2017/10/02/love/"/>
-    <id>/2017/10/02/love/</id>
-    <published>2017-10-02T00:00:00Z</published>
-    <updated>2017-10-02T00:00:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;I Just broke up with the woman I loved.&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;I Just broke up with the woman I loved.&lt;/p&gt;</content>
+    <summary type="html">&lt;p&gt;A blog to publicize my thoughts, and act as a braindump. It will also function as a tool to practice my German. It&amp;#8217;s also an NSA honeypot SIKE&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;A blog to publicize my thoughts, and act as a braindump. It will also function as a tool to practice my German. It&amp;#8217;s also an NSA honeypot SIKE&lt;/p&gt;</content>
   </entry>
 </feed>
