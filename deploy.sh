@@ -1,1 +1,1 @@
-bundle exec mgd -u ssh://git@github.com:whythislife/whythis.life.git
+bundle exec mgd -u git@whythislife:whythislife/whythis.life.git
